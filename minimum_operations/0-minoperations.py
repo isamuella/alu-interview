@@ -1,7 +1,8 @@
 #!/usr/bin/python3
-""" 
+"""
 get exactly n 'H' characters, using the fewest operations.
 """
+
 
 def minOperations(n):
     if n <= 1:
@@ -17,4 +18,3 @@ def minOperations(n):
         i += 1
 
     return operations
-
