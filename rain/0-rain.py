@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-""" """
+"""
+Calculating how many square units of water will be retained after it rains.
+"""
 def rain(walls):
     if not walls or len(walls) < 3:
         return 0
