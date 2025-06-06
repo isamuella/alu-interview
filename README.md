@@ -1,1 +1,1 @@
-Minimum Operations
+pascal's triangle
